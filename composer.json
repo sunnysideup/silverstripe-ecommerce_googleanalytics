@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/ecommerce_googleanalytics",
+	"name": "sunnysideup/ecommerce_googleanalytics",
 	"type": "silverstripe-module",
 	"description": "add google analytics to your Silverstripe website",
 	"homepage": "http://www.silverstripe-ecommerce.com",
